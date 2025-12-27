@@ -1,0 +1,19 @@
+{
+  "name": "my-playwright-project",
+  "version": "1.0.0",
+  "description": "A sample Playwright testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",       // Run all Playwright tests
+    "test:headed": "playwright test --headed", // Run tests in a visible browser
+    "test:report": "playwright show-report"   // Show test report
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.36.0"   // Playwright test framework
+  },
+  "dependencies": {
+    // Your project runtime dependencies (if any)
+  }
+}

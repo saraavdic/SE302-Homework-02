@@ -5,16 +5,16 @@ This project contains automated end-to-end tests for the **Sweet Shop** web appl
 The goal is to validate core functionalities such as navigation, cart operations, form validation, and search.
 
 ## Tech Stack
-# Playwright  
-# JavaScript  
-# Node.js  
-# Page Object Model (POM)  
-# Automated Testing  
+* Playwright  
+* JavaScript  
+* Node.js  
+* Page Object Model (POM)  
+* Automated Testing  
 
 ## Project Structure
-# tests/ – Contains Playwright test cases  
-# pages/ – Page Object classes (HomePage, CartPage)  
-# playwright.config.js – Playwright configuration  
+* tests/ – Contains Playwright test cases  
+* pages/ – Page Object classes (HomePage, CartPage)  
+* playwright.config.js – Playwright configuration  
 
 ## Implemented Test Cases
 # TC01 – Homepage loads successfully  
